@@ -2,7 +2,7 @@
 
 This is a simple script i wrote out of curiosity while learning about multiprocessors and random number generators
 
-##About
+## About
 
 This program is designed to consume all your RAM, CPU and Secondary Memory(HDD/SSD) without actually giving you anything back in return, in the same order as mentioned earlier.
 
