@@ -6,6 +6,8 @@ This is a simple script i wrote out of curiosity while learning about multiproce
 
 This program is designed to consume all your RAM, CPU and Secondary Memory(HDD/SSD) without actually giving you anything back in return, in the same order as mentioned earlier.
 
+![Screenshot](stressor.png)
+
 ## Installation
 
 Install [python](https://www.python.org/downloads/) or follow a suitable tutorial if you're having problems. I would strongly recommend using python 64 since the instruction set is twice as wide.
